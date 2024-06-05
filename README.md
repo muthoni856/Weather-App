@@ -15,8 +15,8 @@ Breezy Belle is a simple weather application that allows users to search for the
 - HTML
 - CSS
 - JavaScript
-- [Axios](https://axios-http.com/) for making API requests
-- [SheCodes Weather API](https://www.shecodes.io/weather) for fetching weather data
+- [Axios](https://github.com/axios/axios) for making API requests
+- [SheCodes Weather API](https://www.shecodes.io/learn/apis/weather) for fetching weather data
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ cd Weather-App
 
 ### API Key
 
-This project uses the SheCodes Weather API. You need an API key to fetch weather data. The API key is already included in the code for demonstration purposes. If you encounter any issues with the API key, you can sign up for a free API key from [SheCodes Weather API](https://www.shecodes.io/weather).
+This project uses the SheCodes Weather API. You need an API key to fetch weather data. The API key is already included in the code for demonstration purposes. If you encounter any issues with the API key, you can sign up for a free API key from [SheCodes Weather API](https://www.shecodes.io/learn/apis/weather).
 
 ### Code Structure
 
